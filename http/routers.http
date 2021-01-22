@@ -1,0 +1,24 @@
+
+Routers HTTP
+
+Users:
+
+# findAll
+# Method: GET
+http://localhost:2000/users
+
+# findById
+# Method: GET
+http://localhost:2000/users/:id
+
+
+Roles:
+
+# findAll
+# Method: GET
+http://localhost:2000/roles
+
+
+# findById
+# Method: GET
+http://localhost:2000/roles/:id
